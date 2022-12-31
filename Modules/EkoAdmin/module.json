@@ -1,0 +1,11 @@
+{
+    "name": "EkoAdmin",
+    "alias": "ekoadmin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EkoAdmin\\Providers\\EkoAdminServiceProvider"
+    ],
+    "files": []
+}
